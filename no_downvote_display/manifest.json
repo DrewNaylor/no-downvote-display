@@ -8,7 +8,7 @@
   "author": "drewnaylor",
   
   "icons": { "48": "no_downvote_display-48.png",
-          "128": "no_downvote_display-128.png" },
+          "128": "no_downvote_display-128-with-padding.png" },
 
   "content_scripts": [
     {
