@@ -4,7 +4,7 @@
   "name": "no_downvote_display",
   "version": "0.1",
 
-  "description": "Hides downvotes in Disqus",
+  "description": "Hides downvotes in Disqus. Not associated with or endorsed by Disqus.",
   "author": "drewnaylor",
 
   "content_scripts": [
