@@ -1,6 +1,8 @@
 # no_downvote_display
 Hides downvotes in Disqus. Currently available as a WebExtension for Firefox, though it's not on the Mozilla Extensions site yet.
 
+Project not to be confused with [Disqus-Downvote-Display](https://github.com/andytuwm/Disqus-Downvote-Display).
+
 This project is available under the MIT license since it's so simple.
 
 
