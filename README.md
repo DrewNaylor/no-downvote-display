@@ -2,7 +2,7 @@
 Hides downvotes in Disqus. Currently available as a WebExtension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/no_downvote_display/) and [Chrome](https://chrome.google.com/webstore/detail/nodownvotedisplay/kamllmjccehkagnboedgedodpneaippg?hl=en&gl=US). The Chrome version should also be installable in Vivaldi, Opera, and Chromium Edge if installing extensions from the Chrome Web Store is allowed.
 
 Long description:
-Hides the number of downvotes comments have in Disqus. May need to refresh any tabs with Disqus comments that were opened before installing the extension. Doesn't hide downvotes when viewing Disqus profiles.
+Hides the number of downvotes comments have in Disqus. May need to refresh any tabs with Disqus comments that were opened before installing the extension.
 
 Project not to be confused with [Disqus-Downvote-Display](https://github.com/andytuwm/Disqus-Downvote-Display).
 

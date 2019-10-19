@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "no_downvote_display",
-  "version": "0.1.1",
+  "version": "0.2",
 
   "description": "Hides downvotes in Disqus. Not associated with or endorsed by Disqus.",
   "author": "drewnaylor",
@@ -13,8 +13,9 @@
   "content_scripts": [
     {
       "matches": [
+        "*://disqus.com/by/*",
         "*://disqus.com/embed/comments/*",
-        "*://disqus.com/home/discussion/*"
+        "*://disqus.com/home/*"
       ],
       "all_frames": true,
       "css": ["no_downvote_display.css"]
