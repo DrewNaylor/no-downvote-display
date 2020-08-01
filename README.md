@@ -10,3 +10,6 @@ This project is available under the MIT license since it's so simple.
 
 
 Some stuff was based on the [manifest.json for disqus-auto-expand](https://github.com/John30013/disqus-auto-expand/blob/master/src/Firefox/manifest.json) to make sure that the Disqus embedded comment section would have the CSS applied to it, that being setting the downvote count to be hidden.
+
+Screenshot for what it does:
+![](/screenshot.png?raw=true)
