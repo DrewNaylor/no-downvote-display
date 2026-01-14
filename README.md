@@ -1,4 +1,10 @@
 # no_downvote_display
+
+## Moving to Codeberg
+**Note:** I'm migrating to Codeberg. The canonical repo for no-downvote-display is now here, please update your remotes: https://codeberg.org/DrewNaylor/no-downvote-display
+
+## Rest of the readme
+
 Hides downvotes in Disqus. Currently available as a WebExtension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/no_downvote_display/) and [Chrome](https://chrome.google.com/webstore/detail/nodownvotedisplay/kamllmjccehkagnboedgedodpneaippg?hl=en&gl=US). The Chrome version should also be installable in Vivaldi, Opera, and Chromium Edge if installing extensions from the Chrome Web Store is allowed. Both Firefox for Android and desktop Firefox support the Firefox version.
 
 Screenshot for what it does:
